@@ -1,6 +1,6 @@
 {
   "dealership": "Victoria Hyundai",
-  "generated_at": "2026-09-26T12:04:35",
+  "generated_at": "2026-10-08T14:53:41",
   "vehicle_count": 511,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -18,13 +18,16 @@
       "year": 2001,
       "make": "Dodge",
       "model": "RAM 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2012 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT6CEA52167",
       "stock": 14359518,
       "color": "Black",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/21d4d0a1d67c.html",
       "source_url": "https://www.victoriahyundai.com/used/2012-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2012-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -33,8 +36,10 @@
       "price_currency": "CAD",
       "year": 2012,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2012 Toyota RAV4 ",
@@ -49,7 +54,9 @@
       "year": 2012,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2013 Audi A5 ",
@@ -65,7 +72,9 @@
       "year": 2013,
       "make": "Audi",
       "model": "A5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2013 Audi TT RS ",
@@ -81,7 +90,9 @@
       "year": 2013,
       "make": "Audi",
       "model": "TT RS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2013 GMC Yukon ",
@@ -97,7 +108,9 @@
       "year": 2013,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Bobcat S630 ",
@@ -111,7 +124,9 @@
       "year": 2014,
       "make": "Bobcat",
       "model": "S630",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Chevrolet Cruze ",
@@ -126,7 +141,9 @@
       "year": 2014,
       "make": "Chevrolet",
       "model": "Cruze",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 GMC Sierra 1500 ",
@@ -142,13 +159,16 @@
       "year": 2014,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Santa Fe Sport Premium! Awdin British Columbia",
       "vin": "5XYZUDLB0EG197110",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport Premium",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ca2644813436.html",
       "source_url": "https://www.victoriahyundai.com/used/2014-Hyundai-Santa_Fe_Sport-id13975911.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2014-Hyundai-Santa_Fe_Sport-id13975911.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -158,14 +178,17 @@
       "odometer_km": 183834,
       "year": 2014,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Premium! Awdin British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLB0EG197110",
       "stock": 13975911,
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/729bf665e0b1.html",
       "source_url": "https://www.victoriahyundai.com/used/2014-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2014-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -174,8 +197,10 @@
       "price_currency": "CAD",
       "year": 2014,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 International TerraStar ",
@@ -190,7 +215,9 @@
       "year": 2014,
       "make": "International",
       "model": "TerraStar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Kia Soul ",
@@ -206,7 +233,9 @@
       "year": 2014,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Pathfinder ",
@@ -222,7 +251,9 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 RAM 1500 ",
@@ -238,7 +269,9 @@
       "year": 2014,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Subaru Forester ",
@@ -253,7 +286,9 @@
       "year": 2014,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Chevrolet Trax ",
@@ -269,7 +304,9 @@
       "year": 2015,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V ",
@@ -285,7 +322,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Honda Civic Sedan ",
@@ -300,12 +339,15 @@
       "year": 2015,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Elantra 2015 Limited - premium style, smart comfort, and value that keeps going!in British Columbia",
       "vin": "KMHDH4AH3FU405255",
       "stock": "NUMBER",
+      "trim": "2015 Limited",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/19210145f4b5.html",
       "source_url": "https://www.victoriahyundai.com/used/2015-Hyundai-Elantra-id14432424.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2015-Hyundai-Elantra-id14432424.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -315,8 +357,10 @@
       "odometer_km": 155928,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Elantra 2015 Limited - premium style, smart comfort, and value that keeps going!in British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Elantra ",
@@ -331,13 +375,16 @@
       "year": 2015,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Santa Fe Sport AWD 4dr 2.0T Limited LEATHER! SUNROOF! BACKUP CAMERA! POWER SEATS!in British Columbia",
       "vin": "5XYZUDLA5FG240008",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport 2.0T Limited LEATHER",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0ebec6b199d5.html",
       "source_url": "https://www.victoriahyundai.com/used/2015-Hyundai-Santa_Fe_Sport-id13752171.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2015-Hyundai-Santa_Fe_Sport-id13752171.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -347,14 +394,17 @@
       "odometer_km": 109873,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.0T Limited LEATHER! SUNROOF! BACKUP CAMERA! POWER SEATS!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA5FG240008",
       "stock": 13752171,
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/de2ad8bdff6b.html",
       "source_url": "https://www.victoriahyundai.com/used/2015-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2015-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -363,8 +413,10 @@
       "price_currency": "CAD",
       "year": 2015,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Juke ",
@@ -380,7 +432,9 @@
       "year": 2015,
       "make": "Nissan",
       "model": "Juke",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 1500 ",
@@ -396,7 +450,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 3500 ",
@@ -412,7 +468,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Forester ",
@@ -428,7 +486,9 @@
       "year": 2015,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Acura MDX ",
@@ -444,7 +504,9 @@
       "year": 2016,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 BMW X5 ",
@@ -459,7 +521,9 @@
       "year": 2016,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Chrysler 200 ",
@@ -474,7 +538,9 @@
       "year": 2016,
       "make": "Chrysler",
       "model": "200",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Ford F-150 ",
@@ -490,7 +556,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Ford Focus ",
@@ -506,7 +574,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "Focus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Honda CR-V ",
@@ -521,13 +591,16 @@
       "year": 2016,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Accent 5dr Auto GL ! Fuel Efficient 1.6L, Heated Seats, Bluetooth, Cruise Control, Keyless Entry, Hatchbackin British Columbia",
       "vin": "KMHCT5AE2GU292180",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "5dr Auto GL",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/aeff05edc826.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Accent-id14354023.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Accent-id14354023.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -537,14 +610,17 @@
       "odometer_km": 22175,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Accent 5dr Auto GL ! Fuel Efficient 1.6L, Heated Seats, Bluetooth, Cruise Control, Keyless Entry, Hatchbackin British Columbia",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Accent 2016 GL - compact, fuel-smart, and ready to make every drive a breeze!in British Columbia",
       "vin": "KMHCT5AE2GU292180",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "2016 GL",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2039d6b6083d.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Accent-id14398592.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Accent-id14398592.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -554,8 +630,10 @@
       "odometer_km": 22150,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Accent 2016 GL - compact, fuel-smart, and ready to make every drive a breeze!in British Columbia",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Accent ",
@@ -571,13 +649,16 @@
       "year": 2016,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Elantra 4dr Sdn Auto GLS NO ACCIDENT! ONE OWNER! SUNROOF!in British Columbia",
       "vin": "KMHDH4AH9GU532187",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sdn Auto GLS NO ACCIDENT",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/faad7130bc3a.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Elantra-id14205122.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Elantra-id14205122.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -587,14 +668,17 @@
       "odometer_km": 122827,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Elantra 4dr Sdn Auto GLS NO ACCIDENT! ONE OWNER! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in British Columbia",
       "vin": "KMHDH4AH3GU492463",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "2016 GLS",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/87f899822291.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Elantra-id14370970.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Elantra-id14370970.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -604,8 +688,10 @@
       "odometer_km": 99826,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Elantra 2016 GLS - sleek, reliable, and fuel-smart with style that goes the distance!in British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Elantra ",
@@ -621,12 +707,15 @@
       "year": 2016,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport Limited Adventurein British Columbia",
       "vin": "5XYZUDLA7GG364461",
       "stock": "NUMBER",
+      "trim": "Sport Limited Adventure",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/d4523211b621.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14132369.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14132369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -636,14 +725,17 @@
       "odometer_km": 159922,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Limited Adventurein British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in British Columbia",
       "vin": "5XYZUDLA2GG321873",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport 2.0T Limited FULL LOAD",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f4ffe938b9bc.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14210512.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14210512.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -653,14 +745,17 @@
       "odometer_km": 133391,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! LEATHER! NAVIGATION! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in British Columbia",
       "vin": "5XYZUDLA5GG371862",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Sport 2.0T Limited FULL LOAD",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2c4516b99e4e.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14292264.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14292264.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -670,14 +765,17 @@
       "odometer_km": 113198,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.0T Limited FULL LOAD! NAVIGATION! LEATHER! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport AWD 4dr 2.4L Luxury LEATHER! BACKUP CAMERA!in British Columbia",
       "vin": "5XYZUDLB9GG358816",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport Luxury LEATHER",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0f36e7c8880b.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14426663.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport-id14426663.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -687,14 +785,17 @@
       "odometer_km": 170095,
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.4L Luxury LEATHER! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA7GG364461",
       "stock": 14132369,
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/88a4769b6a39.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -703,8 +804,10 @@
       "price_currency": "CAD",
       "year": 2016,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Sedona ",
@@ -720,7 +823,9 @@
       "year": 2016,
       "make": "Kia",
       "model": "Sedona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Sorento ",
@@ -735,7 +840,9 @@
       "year": 2016,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Lincoln MKX ",
@@ -751,13 +858,16 @@
       "year": 2016,
       "make": "Lincoln",
       "model": "MKX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 MINI Cooper C ",
       "vin": "WMWZC5C5XGWU03796",
       "stock": 14426670,
       "color": "White",
+      "trim": "C",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/643c44903a9e.html",
       "source_url": "https://www.victoriahyundai.com/used/2016-MINI-Cooper_C.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2016-MINI-Cooper_C.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -766,8 +876,10 @@
       "price_currency": "CAD",
       "year": 2016,
       "make": "MINI",
-      "model": "Cooper C",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Murano ",
@@ -782,7 +894,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 3500 ",
@@ -798,7 +912,9 @@
       "year": 2016,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru WRX ",
@@ -814,7 +930,9 @@
       "year": 2016,
       "make": "Subaru",
       "model": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Golf ",
@@ -829,7 +947,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Golf",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Acura MDX ",
@@ -844,7 +964,9 @@
       "year": 2017,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Cruze ",
@@ -860,7 +982,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Cruze",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Spark ",
@@ -876,7 +1000,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Dodge Journey ",
@@ -892,7 +1018,9 @@
       "year": 2017,
       "make": "Dodge",
       "model": "Journey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Edge ",
@@ -908,7 +1036,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -923,7 +1053,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Transit ",
@@ -938,7 +1070,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 GMC Acadia ",
@@ -953,7 +1087,9 @@
       "year": 2017,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V ",
@@ -968,13 +1104,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Accent SE | Remote Keyless Entry | Cruise Control | Air Conditioning | Smartphone/USB Aux Input Jacksin British Columbia",
       "vin": "KMHCT5AE8HU348446",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e988c750f13b.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Accent-id14261548.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Accent-id14261548.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -984,8 +1123,10 @@
       "odometer_km": 87298,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Accent SE",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Accent ",
@@ -1001,13 +1142,16 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in British Columbia",
       "vin": "5XYZUDLB2HG474425",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport SE LEATHER",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5e4f2d702e07.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id13889690.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id13889690.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1017,13 +1161,16 @@
       "odometer_km": 123137,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.4L SE LEATHER! SUNROOF! NO ACCIDENT!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport AWD 4dr 2.4L SE PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
       "vin": "5XYZUDLB6HG499442",
       "stock": "NUMBER",
+      "trim": "Sport SE",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/91bf81397d8e.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id14066613.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id14066613.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1033,14 +1180,17 @@
       "odometer_km": 139523,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport AWD 4dr 2.4L SE PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLB6HG499442",
       "stock": 14066613,
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8210486b94f6.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1049,14 +1199,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in British Columbia",
       "vin": "KM8J3CA29HU443793",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/c31141bd0f1c.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Tucson-id14061776.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Tucson-id14061776.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1066,14 +1219,17 @@
       "odometer_km": 119890,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Tucson AWD 4dr 1.6L Limited PANORAMIC SUNROOF! LEATHER INTERIOR! NAVIGATION! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson 2017 Premium AWD - smart, dependable, and ready for every road, every season.in British Columbia",
       "vin": "KM8J3CA46HU591899",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "2017 Premium",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/60c6f54b8e56.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Tucson-id14121566.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Tucson-id14121566.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1083,13 +1239,16 @@
       "odometer_km": 207640,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Tucson 2017 Premium AWD - smart, dependable, and ready for every road, every season.in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson 2017 Premium AWD - smart, stylish, and built to make every drive feel better!in British Columbia",
       "vin": "KM8J3CA43HU490707",
       "stock": "NUMBER",
+      "trim": "2017 Premium",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/baca779176b7.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Tucson-id14346069.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Hyundai-Tucson-id14346069.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1099,8 +1258,10 @@
       "odometer_km": 127939,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Tucson 2017 Premium AWD - smart, stylish, and built to make every drive feel better!in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Tucson ",
@@ -1116,7 +1277,9 @@
       "year": 2017,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Cherokee ",
@@ -1132,7 +1295,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Compass ",
@@ -1148,7 +1313,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -1163,7 +1330,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Rio ",
@@ -1179,7 +1348,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Sportage ",
@@ -1195,7 +1366,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Mitsubishi Mirage ",
@@ -1211,7 +1384,9 @@
       "year": 2017,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Qashqai ",
@@ -1226,7 +1401,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Rogue ",
@@ -1242,13 +1419,16 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Versa Note ",
       "vin": "3N1CE2CP7HL371645",
       "stock": 14191834,
       "color": "Dark grey",
+      "trim": "Note",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/1948ad48b9c5.html",
       "source_url": "https://www.victoriahyundai.com/used/2017-Nissan-Versa_Note.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2017-Nissan-Versa_Note.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1257,8 +1437,10 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Nissan",
-      "model": "Versa Note",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 RAM 1500 ",
@@ -1274,7 +1456,9 @@
       "year": 2017,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Golf SportWagen ",
@@ -1289,7 +1473,9 @@
       "year": 2017,
       "make": "Volkswagen",
       "model": "Golf SportWagen",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Audi Q3 ",
@@ -1305,7 +1491,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X1 ",
@@ -1321,7 +1509,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Buick Encore ",
@@ -1337,7 +1527,9 @@
       "year": 2018,
       "make": "Buick",
       "model": "Encore",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Dodge Charger ",
@@ -1352,7 +1544,9 @@
       "year": 2018,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Escape ",
@@ -1367,13 +1561,16 @@
       "year": 2018,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Sierra 3500 HD ",
       "vin": "1GT42YEY1JF215801",
       "stock": 14333846,
       "color": "Mineral Metallic (GJB)",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e86615dbe1e3.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-GMC-Sierra_3500_HD.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-GMC-Sierra_3500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1382,8 +1579,10 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "condition": "used"
+      "model": "Sierra 3500",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Honda CR-V ",
@@ -1399,7 +1598,9 @@
       "year": 2018,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Ridgeline ",
@@ -1414,13 +1615,16 @@
       "year": 2018,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai IONIQ Electric Plus Limited Hatchback FULL LOAD! LEATHER! SUNROOF!in British Columbia",
       "vin": "KMHC75LD2JU083263",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Plus Limited Hatchback FULL LOAD",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0126b1efd29a.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus-id14365107.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus-id14365107.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,14 +1634,17 @@
       "odometer_km": 166134,
       "year": 2018,
       "make": "Hyundai",
-      "model": "IONIQ Electric Plus Limited Hatchback FULL LOAD! LEATHER! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "IONIQ Electric",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai IONIQ Electric Plus ",
       "vin": "KMHC75LD2JU083263",
       "stock": 14365107,
       "color": "Blue",
+      "trim": "Plus",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/a01d07366f5e.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-IONIQ_Electric_Plus.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1446,14 +1653,17 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "IONIQ Electric Plus",
-      "condition": "used"
+      "model": "IONIQ Electric",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Kona Essential! Awdin British Columbia",
       "vin": "KM8K1CAA6JU109423",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/653748e4a480.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Kona-id13975935.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Kona-id13975935.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1463,14 +1673,17 @@
       "odometer_km": 155261,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Kona Essential! Awdin British Columbia",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in British Columbia",
       "vin": "KM8K6CAAXJU118028",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Luxury BLINDSPOT",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/cb4e279264e6.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Kona-id14025053.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Kona-id14025053.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1480,8 +1693,10 @@
       "odometer_km": 140077,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Kona 2.0L Luxury AWD BLINDSPOT! BACKUP CAMERA! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Kona ",
@@ -1497,13 +1712,16 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in British Columbia",
       "vin": "5NMZU3LB3JH070832",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport 2018",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ac34cabc85c5.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id13844373.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id13844373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1513,14 +1731,17 @@
       "odometer_km": 69936,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2018 - premium comfort, smooth ride, and space for every adventure.in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin British Columbia",
       "vin": "5NMZUDLB0JH090736",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport Luxury HEATED LEATHER SEATS",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b2ba4b08a0b2.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14129014.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14129014.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1530,13 +1751,16 @@
       "odometer_km": 154611,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2.4L Luxury AWD HEATED LEATHER SEATS, BACK UP CAMERA, BLUETOOTH, SENSORS, WHEEL CONTROLS, 154,611 KMin British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport 2.4L SE AWD PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
       "vin": "5XYZUDLB7JG544989",
       "stock": "NUMBER",
+      "trim": "Sport SE",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/42f7bbff6d9c.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14304625.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14304625.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1546,14 +1770,17 @@
       "odometer_km": 140064,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2.4L SE AWD PANORAMIC SUNROOF! LEATHER INTERIOR! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLB7JG544989",
       "stock": 14304625,
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ebb71d9ea6e2.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1562,14 +1789,17 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe XL AWD Luxuryin British Columbia",
       "vin": "KM8SNDHF4JU290131",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "XL Luxury",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/06bad889d5de.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_XL-id14408253.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_XL-id14408253.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1579,14 +1809,17 @@
       "odometer_km": 168330,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe XL AWD Luxuryin British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe XL ",
       "vin": "KM8SNDHF4JU290131",
       "stock": 14408253,
       "color": "Silver",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/24ee236845f7.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_XL.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Santa_Fe_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1595,14 +1828,17 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe XL",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Sonata 2.4L GLS SUNROOF! LEATHER INTERIOR! BACKUP CAMERA! HEATED SEATS & STEERING WHEEL!in British Columbia",
       "vin": "5NPE34AF2JH663534",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "GLS SUNROOF",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2a0dc279b1ea.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Sonata-id14091977.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Sonata-id14091977.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1612,8 +1848,10 @@
       "odometer_km": 90080,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Sonata 2.4L GLS SUNROOF! LEATHER INTERIOR! BACKUP CAMERA! HEATED SEATS & STEERING WHEEL!in British Columbia",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Sonata ",
@@ -1629,12 +1867,15 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in British Columbia",
       "vin": "KM8J3CA27JU743273",
       "stock": "NUMBER",
+      "trim": "1.6T Noir",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2267e338a66a.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Tucson-id13961678.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Tucson-id13961678.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1644,14 +1885,17 @@
       "odometer_km": 140255,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Tucson 1.6T Noir AWD PANORAMIC SUNROOF! HEATED SEATS & STEERING WHEEL! BACKUP CAMERA!in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Tucson SEin British Columbia",
       "vin": "KM8J3CA43JU626727",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/dbe6e9486de8.html",
       "source_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Tucson-id14426660.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2018-Hyundai-Tucson-id14426660.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1661,8 +1905,10 @@
       "odometer_km": 140460,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Tucson SEin British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Tucson ",
@@ -1678,7 +1924,9 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler ",
@@ -1694,7 +1942,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Forte ",
@@ -1710,7 +1960,9 @@
       "year": 2018,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Mitsubishi Eclipse Cross ",
@@ -1725,7 +1977,9 @@
       "year": 2018,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Mitsubishi Outlander PHEV ",
@@ -1741,7 +1995,9 @@
       "year": 2018,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Micra ",
@@ -1757,7 +2013,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Micra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -1773,7 +2031,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Qashqai ",
@@ -1789,7 +2049,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Rogue ",
@@ -1805,7 +2067,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Titan ",
@@ -1820,7 +2084,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Titan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 RAM 1500 ",
@@ -1835,7 +2101,9 @@
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Subaru Crosstrek ",
@@ -1851,7 +2119,9 @@
       "year": 2018,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Highlander ",
@@ -1867,7 +2137,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Atlas ",
@@ -1883,7 +2155,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan ",
@@ -1899,7 +2173,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Acura RDX ",
@@ -1915,7 +2191,9 @@
       "year": 2019,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Equinox ",
@@ -1931,7 +2209,9 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Grand Caravan ",
@@ -1947,7 +2227,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Edge ",
@@ -1962,7 +2244,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Escape ",
@@ -1977,7 +2261,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Fusion Hybrid ",
@@ -1993,7 +2279,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Fusion Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Acadia ",
@@ -2008,7 +2296,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Terrain ",
@@ -2024,7 +2314,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic ",
@@ -2039,7 +2331,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Honda HR-V ",
@@ -2055,13 +2349,16 @@
       "year": 2019,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Accent Preferred! Hatchin British Columbia",
       "vin": "3KPC25A31KE045844",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e38758ee6752.html",
       "source_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Accent-id14213470.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Accent-id14213470.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2071,8 +2368,10 @@
       "odometer_km": 90413,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Accent Preferred! Hatchin British Columbia",
-      "condition": "used"
+      "model": "Accent",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Accent ",
@@ -2088,7 +2387,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Santa Fe ",
@@ -2104,13 +2405,16 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Sonata PRICED TO GO!! 2.4L Essential w/Sport Pkg SUNROOF! BACKUP CAMERA! BLUETOOTH! LEATHER INTERIOR!in British Columbia",
       "vin": "5NPE34AF1KH769569",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "PRICED TO GO",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f7b9e8c565e6.html",
       "source_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Sonata-id13828703.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Sonata-id13828703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2120,14 +2424,17 @@
       "odometer_km": 73911,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Sonata PRICED TO GO!! 2.4L Essential w/Sport Pkg SUNROOF! BACKUP CAMERA! BLUETOOTH! LEATHER INTERIOR!in British Columbia",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in British Columbia",
       "vin": "5NPE34AF8KH785543",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8c76c8b27303.html",
       "source_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Sonata-id13966884.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Sonata-id13966884.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2137,8 +2444,10 @@
       "odometer_km": 97366,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Sonata 2.4L Essential w/Sport Pkg NO ACCIDENT! SUNROOF!in British Columbia",
-      "condition": "used"
+      "model": "Sonata",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Sonata ",
@@ -2154,13 +2463,16 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Tucson Ultimate | AWD | Heated & Ventilated Seats | Remote Keyless Entry | Bluetooth | LED Headlightsin British Columbia",
       "vin": "KM8J3CAL7KU873922",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Ultimate",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/89eb2104dbda.html",
       "source_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Tucson-id14140895.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2019-Hyundai-Tucson-id14140895.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2170,8 +2482,10 @@
       "odometer_km": 149782,
       "year": 2019,
       "make": "Hyundai",
-      "model": "Tucson Ultimate",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Tucson ",
@@ -2187,7 +2501,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Veloster ",
@@ -2203,7 +2519,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Veloster",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Jaguar E-PACE ",
@@ -2219,7 +2537,9 @@
       "year": 2019,
       "make": "Jaguar",
       "model": "E-PACE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -2235,7 +2555,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Grand Cherokee ",
@@ -2250,7 +2572,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Wrangler ",
@@ -2266,7 +2590,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte ",
@@ -2282,7 +2608,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Soul ",
@@ -2298,7 +2626,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Altima ",
@@ -2314,7 +2644,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Kicks ",
@@ -2329,7 +2661,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Micra ",
@@ -2345,7 +2679,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Micra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Pathfinder ",
@@ -2361,7 +2697,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Qashqai ",
@@ -2377,7 +2715,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Rogue ",
@@ -2393,7 +2733,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Sentra ",
@@ -2409,7 +2751,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 RAM 1500 Classic ",
@@ -2425,7 +2769,9 @@
       "year": 2019,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Ascent ",
@@ -2440,7 +2786,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Prius Prime ",
@@ -2456,7 +2804,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta ",
@@ -2472,7 +2822,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Tiguan ",
@@ -2487,7 +2839,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo S60 ",
@@ -2503,7 +2857,9 @@
       "year": 2019,
       "make": "Volvo",
       "model": "S60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo XC40 ",
@@ -2519,7 +2875,9 @@
       "year": 2019,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Spark ",
@@ -2535,7 +2893,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Dodge Grand Caravan ",
@@ -2551,7 +2911,9 @@
       "year": 2020,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Edge ",
@@ -2567,7 +2929,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Explorer ",
@@ -2583,7 +2947,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -2599,7 +2965,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Honda CR-V ",
@@ -2615,7 +2983,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Accent ",
@@ -2631,13 +3001,16 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Kona Preferred | AWD | Remote Keyless Entry | Heated Seats | Apple CarPlay & Android Autoin British Columbia",
       "vin": "KM8K2CAAXLU507749",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/1cc212c4f128.html",
       "source_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Kona-id14171955.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Kona-id14171955.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2647,8 +3020,10 @@
       "odometer_km": 103304,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Kona Preferred",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Kona ",
@@ -2664,7 +3039,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Kona Electric ",
@@ -2680,7 +3057,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Palisade ",
@@ -2696,13 +3075,16 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe 2.4L Essential AWD w/Safety Package! BLUETOOTH! BACK UP CAMERA! HEATED FRONT SEATS! TOUCHSCREEN!in British Columbia",
       "vin": "5NMS2CAD1LH208379",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0175cf2db407.html",
       "source_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Santa_Fe-id12961083.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Santa_Fe-id12961083.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2712,8 +3094,10 @@
       "odometer_km": 136323,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Santa Fe 2.4L Essential AWD w/Safety Package! BLUETOOTH! BACK UP CAMERA! HEATED FRONT SEATS! TOUCHSCREEN!in British Columbia",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe ",
@@ -2729,12 +3113,15 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Tucson 2020 Essential - smart value, smooth driving, and ready for every journey.in British Columbia",
       "vin": "KM8J23A49LU159626",
       "stock": "NUMBER",
+      "trim": "2020 Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5354a212373f.html",
       "source_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Tucson-id14097177.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Tucson-id14097177.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2744,8 +3131,10 @@
       "odometer_km": 117959,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Tucson 2020 Essential - smart value, smooth driving, and ready for every journey.in British Columbia",
-      "condition": "used"
+      "model": "Tucson",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Tucson ",
@@ -2761,12 +3150,15 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Veloster 2020 Luxury - sporty style, premium comfort, and fun in every curve.in British Columbia",
       "vin": "KMHTG6AF2LU023805",
       "stock": "NUMBER",
+      "trim": "2020 Luxury",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/c3b7211e2099.html",
       "source_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Veloster-id14121565.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2020-Hyundai-Veloster-id14121565.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2776,8 +3168,10 @@
       "odometer_km": 153705,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Veloster 2020 Luxury - sporty style, premium comfort, and fun in every curve.in British Columbia",
-      "condition": "used"
+      "model": "Veloster",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Veloster ",
@@ -2792,7 +3186,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Veloster",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Compass ",
@@ -2808,7 +3204,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Wrangler ",
@@ -2824,7 +3222,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Forte ",
@@ -2840,7 +3240,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sedona ",
@@ -2856,7 +3258,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sedona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Sorento ",
@@ -2872,13 +3276,16 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus NX 300 ",
       "vin": "JTJSARDZ9L5016818",
       "stock": 14413404,
       "color": "Silver",
+      "trim": "300",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/fcd53c73a3db.html",
       "source_url": "https://www.victoriahyundai.com/used/2020-Lexus-NX_300.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2020-Lexus-NX_300.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2887,8 +3294,10 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Lexus",
-      "model": "NX 300",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Murano ",
@@ -2904,7 +3313,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Rogue ",
@@ -2920,7 +3331,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 ",
@@ -2936,7 +3349,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 2500 ",
@@ -2952,7 +3367,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Forester ",
@@ -2968,7 +3385,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Audi Q7 ",
@@ -2983,7 +3402,9 @@
       "year": 2021,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 BMW X7 ",
@@ -2998,7 +3419,9 @@
       "year": 2021,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Camaro ",
@@ -3014,7 +3437,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Camaro",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Malibu ",
@@ -3030,7 +3455,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 ",
@@ -3046,7 +3473,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Trax ",
@@ -3062,7 +3491,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Dodge Challenger ",
@@ -3078,7 +3509,9 @@
       "year": 2021,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Dodge Charger ",
@@ -3094,7 +3527,9 @@
       "year": 2021,
       "make": "Dodge",
       "model": "Charger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Bronco ",
@@ -3110,7 +3545,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Escape ",
@@ -3125,7 +3562,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Sierra 1500 ",
@@ -3141,7 +3580,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Yukon ",
@@ -3157,7 +3598,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Genesis GV80 ",
@@ -3172,7 +3615,9 @@
       "year": 2021,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Elantra ",
@@ -3188,7 +3633,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Kona ",
@@ -3204,7 +3651,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Santa Fe ",
@@ -3220,7 +3669,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Sonata ",
@@ -3236,7 +3687,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Tucson ",
@@ -3252,7 +3705,9 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Cherokee ",
@@ -3268,7 +3723,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Compass ",
@@ -3284,7 +3741,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Gladiator ",
@@ -3300,7 +3759,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -3316,13 +3777,16 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler 4xe ",
       "vin": "1C4JJXP63MW709142",
       "stock": 14191886,
       "color": "Grey",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/a38a704a2e8b.html",
       "source_url": "https://www.victoriahyundai.com/used/2021-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2021-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3331,8 +3795,10 @@
       "price_currency": "CAD",
       "year": 2021,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Forte ",
@@ -3348,7 +3814,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Seltos ",
@@ -3364,7 +3832,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sorento ",
@@ -3379,7 +3849,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sportage ",
@@ -3395,7 +3867,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-5 ",
@@ -3410,7 +3884,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano ",
@@ -3426,7 +3902,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Rogue ",
@@ -3442,7 +3920,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 ",
@@ -3458,7 +3938,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek ",
@@ -3474,7 +3956,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Forester ",
@@ -3489,7 +3973,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Camry ",
@@ -3505,7 +3991,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota RAV4 ",
@@ -3521,7 +4009,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Tacoma ",
@@ -3537,7 +4027,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Jetta ",
@@ -3552,7 +4044,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Tiguan ",
@@ -3568,7 +4062,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Volvo XC60 ",
@@ -3584,7 +4080,9 @@
       "year": 2021,
       "make": "Volvo",
       "model": "XC60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Equinox ",
@@ -3600,7 +4098,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Malibu ",
@@ -3616,7 +4116,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Spark ",
@@ -3632,7 +4134,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Spark",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Chevrolet Trax ",
@@ -3648,7 +4152,9 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Chrysler Pacifica ",
@@ -3663,7 +4169,9 @@
       "year": 2022,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Dodge Challenger ",
@@ -3679,7 +4187,9 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Edge ",
@@ -3695,7 +4205,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape ",
@@ -3710,7 +4222,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape Hybrid ",
@@ -3726,7 +4240,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Escape Plug-in Hybrid ",
@@ -3742,7 +4258,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape Plug-in Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Expedition ",
@@ -3758,13 +4276,16 @@
       "year": 2022,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT5NEE54300",
       "stock": 14359517,
       "color": "White",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/d89ddf36cca0.html",
       "source_url": "https://www.victoriahyundai.com/used/2022-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2022-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3773,8 +4294,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Genesis G70 ",
@@ -3790,7 +4313,9 @@
       "year": 2022,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Accord Sedan ",
@@ -3806,7 +4331,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Accord Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Honda CR-V ",
@@ -3821,7 +4348,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Ridgeline ",
@@ -3837,13 +4366,16 @@
       "year": 2022,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra Essential IVT HEATED SEATS! BACKUP CAMERA! LOW KMS!in British Columbia",
       "vin": "KMHLM4AG8NU345941",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential IVT HEATED SEATS",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2380cdbd53c3.html",
       "source_url": "https://www.victoriahyundai.com/used/2022-Hyundai-Elantra-id14033925.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2022-Hyundai-Elantra-id14033925.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3853,8 +4385,10 @@
       "odometer_km": 47518,
       "year": 2022,
       "make": "Hyundai",
-      "model": "Elantra Essential IVT HEATED SEATS! BACKUP CAMERA! LOW KMS!in British Columbia",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra ",
@@ -3870,7 +4404,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai IONIQ 5 ",
@@ -3886,7 +4422,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Kona ",
@@ -3902,7 +4440,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Palisade ",
@@ -3918,7 +4458,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Santa Fe ",
@@ -3934,7 +4476,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Tucson ",
@@ -3950,7 +4494,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Infiniti QX55 ",
@@ -3966,7 +4512,9 @@
       "year": 2022,
       "make": "Infiniti",
       "model": "QX55",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Compass ",
@@ -3982,7 +4530,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Gladiator ",
@@ -3998,7 +4548,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Grand Cherokee ",
@@ -4014,7 +4566,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler ",
@@ -4030,7 +4584,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Forte ",
@@ -4046,7 +4602,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Rio ",
@@ -4062,7 +4620,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento ",
@@ -4078,7 +4638,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Soul ",
@@ -4094,7 +4656,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Lincoln Corsair ",
@@ -4110,7 +4674,9 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Corsair",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Eclipse Cross ",
@@ -4126,7 +4692,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander ",
@@ -4142,7 +4710,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan LEAF ",
@@ -4158,7 +4728,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -4174,7 +4746,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic ",
@@ -4190,7 +4764,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 3500 ",
@@ -4206,7 +4782,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 ",
@@ -4222,7 +4800,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Corolla ",
@@ -4238,7 +4818,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota RAV4 ",
@@ -4253,7 +4835,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q5 ",
@@ -4269,7 +4853,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Audi Q7 ",
@@ -4285,7 +4871,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 BMW X1 ",
@@ -4301,7 +4889,9 @@
       "year": 2023,
       "make": "BMW",
       "model": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Malibu ",
@@ -4316,7 +4906,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Silverado 1500 ",
@@ -4332,7 +4924,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet TrailBlazer ",
@@ -4348,7 +4942,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Traverse ",
@@ -4364,7 +4960,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco ",
@@ -4380,7 +4978,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Ford E-series ",
@@ -4395,7 +4995,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "E-series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape Hybrid ",
@@ -4411,7 +5013,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -4427,7 +5031,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Acadia ",
@@ -4443,7 +5049,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Acadia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Terrain ",
@@ -4459,7 +5067,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Yukon XL ",
@@ -4475,7 +5085,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Yukon XL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis G70 ",
@@ -4490,7 +5102,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV60 ",
@@ -4506,7 +5120,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV70 ",
@@ -4522,7 +5138,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV80 ",
@@ -4538,7 +5156,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra ",
@@ -4553,7 +5173,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra Hybrid ",
@@ -4569,7 +5191,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Kona ",
@@ -4585,7 +5209,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Cruz ",
@@ -4601,7 +5227,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Fe ",
@@ -4617,7 +5245,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Sonata ",
@@ -4633,7 +5263,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson ",
@@ -4649,7 +5281,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Tucson Hybrid ",
@@ -4665,7 +5299,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Venue ",
@@ -4680,7 +5316,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Cherokee ",
@@ -4696,7 +5334,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Compass ",
@@ -4711,7 +5351,9 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Grand Wagoneer ",
@@ -4727,12 +5369,15 @@
       "year": 2023,
       "make": "Jeep",
       "model": "Grand Wagoneer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler 2 Door ",
       "vin": "1C4HJXAG1PW601655",
       "stock": 14191888,
+      "trim": "2 Door",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3b13f17aef66.html",
       "source_url": "https://www.victoriahyundai.com/used/2023-Jeep-Wrangler_2_Door.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2023-Jeep-Wrangler_2_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4741,14 +5386,17 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Wrangler 2 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Jeep Wrangler 4 Door ",
       "vin": "1C4HJXEN0PW626569",
       "stock": 13682791,
       "color": "White",
+      "trim": "4 Door",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/276186eb5530.html",
       "source_url": "https://www.victoriahyundai.com/used/2023-Jeep-Wrangler_4_Door.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2023-Jeep-Wrangler_4_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4757,8 +5405,10 @@
       "price_currency": "CAD",
       "year": 2023,
       "make": "Jeep",
-      "model": "Wrangler 4 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte ",
@@ -4774,7 +5424,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Niro EV ",
@@ -4790,7 +5442,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Seltos ",
@@ -4806,7 +5460,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sorento ",
@@ -4821,7 +5477,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Soul ",
@@ -4837,7 +5495,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -4853,7 +5513,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Stinger ",
@@ -4869,7 +5531,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Stinger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Telluride ",
@@ -4885,7 +5549,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Mazda CX-50 ",
@@ -4901,7 +5567,9 @@
       "year": 2023,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Mitsubishi Outlander ",
@@ -4917,7 +5585,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Mitsubishi Outlander PHEV ",
@@ -4932,7 +5602,9 @@
       "year": 2023,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Kicks ",
@@ -4948,7 +5620,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Pathfinder ",
@@ -4964,7 +5638,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Sentra ",
@@ -4979,7 +5655,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 ",
@@ -4995,7 +5673,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 1500 Classic ",
@@ -5011,7 +5691,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -5027,7 +5709,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Outback ",
@@ -5043,7 +5727,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tacoma ",
@@ -5058,7 +5744,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Tundra Hybrid ",
@@ -5074,7 +5762,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Tundra Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Taos ",
@@ -5089,7 +5779,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan ",
@@ -5105,7 +5797,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Cadillac XT6 ",
@@ -5121,7 +5815,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "XT6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Chrysler Pacifica ",
@@ -5137,7 +5833,9 @@
       "year": 2024,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Dodge Durango ",
@@ -5153,7 +5851,9 @@
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -5169,7 +5869,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Ranger ",
@@ -5185,13 +5887,16 @@
       "year": 2024,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BM0REC24162",
       "stock": 14089521,
       "color": "Black",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6d5d9c6a7a46.html",
       "source_url": "https://www.victoriahyundai.com/used/2024-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2024-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5200,8 +5905,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Terrain ",
@@ -5216,7 +5923,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Genesis GV70 ",
@@ -5232,7 +5941,9 @@
       "year": 2024,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Genesis GV80 ",
@@ -5248,7 +5959,9 @@
       "year": 2024,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Elantra ",
@@ -5264,7 +5977,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai IONIQ 5 ",
@@ -5279,7 +5994,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona ",
@@ -5295,7 +6012,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona Electric ",
@@ -5311,7 +6030,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Palisade ",
@@ -5327,7 +6048,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Santa Fe ",
@@ -5343,7 +6066,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson ",
@@ -5359,7 +6084,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson Hybrid ",
@@ -5374,7 +6101,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Venue ",
@@ -5390,7 +6119,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Compass ",
@@ -5406,7 +6137,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -5422,7 +6155,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -5437,13 +6172,16 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 2 Door ",
       "vin": "1C4PJXCG7RW164952",
       "stock": 13953408,
       "color": "Dark blue",
+      "trim": "2 Door",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f0cee8cca470.html",
       "source_url": "https://www.victoriahyundai.com/used/2024-Jeep-Wrangler_2_Door.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2024-Jeep-Wrangler_2_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5452,14 +6190,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 2 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 4xe ",
       "vin": "1C4RJXN64RW220097",
       "stock": 14248224,
       "color": "Green",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6b660d054acc.html",
       "source_url": "https://www.victoriahyundai.com/used/2024-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2024-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -5468,8 +6209,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Forte ",
@@ -5485,7 +6228,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Seltos ",
@@ -5501,7 +6246,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage ",
@@ -5517,7 +6264,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Telluride ",
@@ -5533,7 +6282,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-5 ",
@@ -5548,7 +6299,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-50 ",
@@ -5564,7 +6317,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "CX-50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda MX-5 ",
@@ -5580,7 +6335,9 @@
       "year": 2024,
       "make": "Mazda",
       "model": "MX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander ",
@@ -5596,7 +6353,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander PHEV ",
@@ -5612,7 +6371,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -5628,7 +6389,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Armada ",
@@ -5644,7 +6407,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier ",
@@ -5660,7 +6425,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -5676,7 +6443,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Pathfinder ",
@@ -5692,7 +6461,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -5707,7 +6478,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Versa ",
@@ -5723,7 +6496,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Versa",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla Hybrid ",
@@ -5739,7 +6514,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 Plug-In Hybrid ",
@@ -5755,7 +6532,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4 Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Tacoma ",
@@ -5770,7 +6549,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas ",
@@ -5786,7 +6567,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta ",
@@ -5802,7 +6585,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan ",
@@ -5818,7 +6603,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Volvo XC90 ",
@@ -5834,7 +6621,9 @@
       "year": 2024,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X2 ",
@@ -5849,7 +6638,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Buick Encore GX ",
@@ -5865,7 +6656,9 @@
       "year": 2025,
       "make": "Buick",
       "model": "Encore GX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Buick Envista ",
@@ -5880,7 +6673,9 @@
       "year": 2025,
       "make": "Buick",
       "model": "Envista",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Colorado ",
@@ -5896,7 +6691,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Silverado 1500 ",
@@ -5912,7 +6709,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet TrailBlazer ",
@@ -5928,7 +6727,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax ",
@@ -5944,7 +6745,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -5959,7 +6762,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -5975,7 +6780,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -5991,7 +6798,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Mustang ",
@@ -6007,7 +6816,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Sierra 3500 ",
@@ -6023,7 +6834,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Sierra EV ",
@@ -6039,7 +6852,9 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis G80 ",
@@ -6054,7 +6869,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "G80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis GV70 ",
@@ -6070,7 +6887,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis GV80 ",
@@ -6085,7 +6904,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -6101,7 +6922,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic ",
@@ -6117,7 +6940,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Pilot ",
@@ -6133,7 +6958,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra ",
@@ -6149,7 +6976,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona ",
@@ -6165,7 +6994,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Palisade ",
@@ -6181,7 +7012,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Cruz ",
@@ -6197,7 +7030,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Fe ",
@@ -6213,7 +7048,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson ",
@@ -6229,7 +7066,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Tucson Hybrid ",
@@ -6245,7 +7084,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue ",
@@ -6261,12 +7102,15 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra Luxury | 2025 clear-out model $3000 OFF!in British Columbia",
       "vin": "KMHLN4DG4SU913218",
       "stock": "NUMBER",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/7afcca5b31bb.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2025-Hyundai-Elantra-id11598864.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2025-Hyundai-Elantra-id11598864.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6276,14 +7120,17 @@
       "odometer_km": 4978,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Jeep Wrangler 4 Door ",
       "vin": "1C4PJXEN4SW565800",
       "stock": 14199958,
       "color": "White",
+      "trim": "4 Door",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b10c537322d5.html",
       "source_url": "https://www.victoriahyundai.com/used/2025-Jeep-Wrangler_4_Door.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2025-Jeep-Wrangler_4_Door.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6292,8 +7139,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Jeep",
-      "model": "Wrangler 4 Door",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 ",
@@ -6309,7 +7158,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos ",
@@ -6325,7 +7176,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sorento ",
@@ -6341,7 +7194,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -6357,7 +7212,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -6373,7 +7230,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -6389,7 +7248,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -6404,7 +7265,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Frontier ",
@@ -6420,7 +7283,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -6436,13 +7301,16 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV5SL487539",
       "stock": 14025070,
       "color": "White",
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0bf2a9a8ffb7.html",
       "source_url": "https://www.victoriahyundai.com/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6451,8 +7319,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -6468,7 +7338,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Sentra ",
@@ -6483,7 +7355,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 RAM 1500 ",
@@ -6499,13 +7373,16 @@
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 RAM ProMaster Cargo Van ",
       "vin": "3C6LRVCG0SE539454",
       "stock": 14140655,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/09e21d1430e8.html",
       "source_url": "https://www.victoriahyundai.com/used/2025-RAM-ProMaster_Cargo_Van.html",
       "dealer_url": "https://www.victoriahyundai.com/used/2025-RAM-ProMaster_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6514,8 +7391,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "RAM",
-      "model": "ProMaster Cargo Van",
-      "condition": "used"
+      "model": "ProMaster",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester ",
@@ -6531,7 +7410,9 @@
       "year": 2025,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Tundra ",
@@ -6547,7 +7428,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Tundra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -6563,7 +7446,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -6579,7 +7464,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Audi SQ5 ",
@@ -6595,7 +7482,9 @@
       "year": 2026,
       "make": "Audi",
       "model": "SQ5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ",
@@ -6611,7 +7500,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 ",
@@ -6627,7 +7518,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet TrailBlazer ",
@@ -6643,7 +7536,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ",
@@ -6658,7 +7553,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis G70 ",
@@ -6674,7 +7571,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis GV70 ",
@@ -6690,7 +7589,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis GV80 ",
@@ -6706,7 +7607,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -6722,7 +7625,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -6738,7 +7643,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -6754,7 +7661,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid ",
@@ -6770,13 +7679,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DKXTU036916",
       "stock": 13074128,
       "color": "Blue",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/77155c2d585d.html",
       "source_url": "https://www.victoriahyundai.com/new/2026-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.victoriahyundai.com/new/2026-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6785,12 +7697,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5in British Columbia",
       "stock": "NUMBER",
+      "trim": "5",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/4aaff372dfe5.html",
       "source_url": "https://www.victoriahyundai.com/new/2026-Hyundai-IONIQ_5.html",
       "dealer_url": "https://www.victoriahyundai.com/new/2026-Hyundai-IONIQ_5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -6799,8 +7714,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5in British Columbia",
-      "condition": "used"
+      "model": "IONIQ",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 ",
@@ -6816,7 +7733,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -6832,7 +7751,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -6848,7 +7769,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -6864,7 +7787,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid ",
@@ -6880,7 +7805,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -6896,7 +7823,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata ",
@@ -6912,7 +7841,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid ",
@@ -6928,7 +7859,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -6944,7 +7877,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -6960,7 +7895,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ",
@@ -6976,7 +7913,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -6992,7 +7931,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 ",
@@ -7008,7 +7949,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -7024,7 +7967,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid ",
@@ -7040,7 +7985,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -7056,7 +8003,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -7072,7 +8021,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ",
@@ -7088,7 +8039,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra ",
@@ -7104,7 +8057,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Hybrid ",
@@ -7120,13 +8075,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra N ",
       "vin": "KMHLW4DKXTU036916",
       "stock": 13074128,
       "color": "Blue",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/77155c2d585d.html",
       "source_url": "https://www.victoriahyundai.com/new/2026-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.victoriahyundai.com/new/2026-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7135,12 +8093,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5in British Columbia",
       "stock": "NUMBER",
+      "trim": "5",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/4aaff372dfe5.html",
       "source_url": "https://www.victoriahyundai.com/new/2026-Hyundai-IONIQ_5.html",
       "dealer_url": "https://www.victoriahyundai.com/new/2026-Hyundai-IONIQ_5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7149,8 +8110,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5in British Columbia",
-      "condition": "new"
+      "model": "IONIQ",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 ",
@@ -7166,7 +8129,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -7182,7 +8147,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electric ",
@@ -7198,7 +8165,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -7214,7 +8183,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid ",
@@ -7230,7 +8201,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -7246,7 +8219,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata ",
@@ -7262,7 +8237,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid ",
@@ -7278,7 +8255,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -7294,7 +8273,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -7310,7 +8291,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybrid ",
@@ -7326,7 +8309,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Plug-In Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -7342,13 +8327,16 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxury | $1550 OFF!in British Columbia",
       "vin": "KMHLN4DG7TU123171",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/71acc06a389a.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13102137.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13102137.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7357,14 +8345,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxury",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxuryin British Columbia",
       "vin": "KMHLN4DG3TU124656",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/3170c198fc26.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13102141.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13102141.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7373,14 +8364,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxuryin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DGXTU123698",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/8cef77cc87b6.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13124174.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13124174.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7389,14 +8383,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DGXTU134541",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/c116a04ae54f.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13221788.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13221788.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7405,14 +8402,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG2TU157151",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/fa80dd322b18.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13337973.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13337973.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7421,14 +8421,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Luxuryin British Columbia",
       "vin": "KMHLN4DG4TU219226",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Luxury",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/2cf55004470f.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13834439.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13834439.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7437,14 +8440,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Luxuryin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG5TU245479",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/146dca985034.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13984862.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13984862.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7453,14 +8459,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG2TU235962",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/9f86def41646.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13984869.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id13984869.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7469,14 +8478,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG5TU255560",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/80198631b2eb.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14089360.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14089360.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7485,14 +8497,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG1TU269584",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/33332b976fb0.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14231063.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14231063.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7501,14 +8516,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG3TU270624",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/213c72b600ab.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14231064.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14231064.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7517,14 +8535,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essentialin British Columbia",
       "vin": "KMHLM4DG8TU269338",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/2c294d3a7cd7.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14231073.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14231073.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7533,14 +8554,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essentialin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essentialin British Columbia",
       "vin": "KMHLM4DG7TU269296",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/07fb6a8a50cf.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14236746.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14236746.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7549,14 +8573,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essentialin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG4TU272091",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/1c82dc06aea5.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14236748.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14236748.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7565,14 +8592,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG0TU272301",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/e69a804a8ce7.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14236750.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14236750.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7581,14 +8611,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essentialin British Columbia",
       "vin": "KMHLM4DG3TU277587",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/d83ef4a3359c.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14248066.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14248066.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7597,14 +8630,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essentialin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG7TU276846",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/dfca8975cd5b.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14266867.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14266867.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7613,14 +8649,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essentialin British Columbia",
       "vin": "KMHLM4DG9TU289730",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/76c99ed578f5.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14310848.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14310848.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7629,14 +8668,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essentialin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Essentialin British Columbia",
       "vin": "KMHLM4DG2TU287589",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/419366d72c3b.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14327554.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14327554.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7645,14 +8687,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Essentialin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG8TU278024",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/ca3d39c8efaf.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14359348.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14359348.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7661,14 +8706,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG5TU296416",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/87ada0e86ba7.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14359350.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14359350.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7677,14 +8725,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG1TU270640",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/51be475bebde.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14359354.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14359354.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7693,14 +8744,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Elantra Preferredin British Columbia",
       "vin": "KMHLM4DG0TU296422",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/1845a7b9fb26.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14370963.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Elantra-id14370963.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7709,14 +8763,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra Preferredin British Columbia",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACAB3TU441325",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/945f541a6853.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13468224.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13468224.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7725,14 +8782,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACAB3TU448467",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/eec99b1005ba.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13545326.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13545326.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7741,14 +8801,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACABXTU467128",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/1c4ab02be03f.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13790732.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13790732.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7757,14 +8820,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACAB1TU476347",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/fad8aa00bce1.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13837103.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id13837103.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7773,14 +8839,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HA3AB0TU498923",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/463673c58e4d.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id14121553.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id14121553.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7789,14 +8858,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HACAB1TU476591",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/0d20b6e44057.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id14158123.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Kona-id14158123.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7805,14 +8877,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin British Columbia",
       "vin": "KMHRC8A35TU482737",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferred",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/b6c8ed3f9222.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Venue-id14089352.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2026-Hyundai-Venue-id14089352.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -7821,8 +8896,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin British Columbia",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos ",
@@ -7838,7 +8915,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -7854,7 +8933,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage HEV ",
@@ -7870,7 +8951,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage HEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -7886,7 +8969,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -7902,7 +8987,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ",
@@ -7918,7 +9005,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -7934,7 +9023,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Electric ",
@@ -7950,7 +9041,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade ",
@@ -7966,7 +9059,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -7982,7 +9077,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ",
@@ -7998,7 +9095,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai IONIQ 5 ",
@@ -8014,7 +9113,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "IONIQ 5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -8030,7 +9131,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Electric ",
@@ -8046,7 +9149,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade ",
@@ -8062,7 +9167,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Palisade Hybrid ",
@@ -8078,7 +9185,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ",
@@ -8094,13 +9203,16 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HA3AB4VU511403",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/e4653d4b588b.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2027-Hyundai-Kona-id14248069.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2027-Hyundai-Kona-id14248069.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8109,14 +9221,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Essentialin British Columbia",
       "vin": "KM8HA3AB5VU511135",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Essential",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/93eab8471170.html",
       "source_url": "https://www.victoriahyundai.com/new/inventory/2027-Hyundai-Kona-id14266864.html",
       "dealer_url": "https://www.victoriahyundai.com/new/inventory/2027-Hyundai-Kona-id14266864.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -8125,8 +9240,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essentialin British Columbia",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     }
   ]
 }

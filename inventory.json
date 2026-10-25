@@ -1,7 +1,7 @@
 {
   "dealership": "Victoria Hyundai",
-  "generated_at": "2026-10-25T14:58:03",
-  "vehicle_count": 466,
+  "generated_at": "2026-10-25T16:06:15",
+  "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -314,17 +314,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2012 BMW 1 Series ",
-      "vin": "WBAUL7C50CVM83227",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8a497d6aac0e.html",
-      "year": 2012,
-      "make": "BMW",
-      "model": "1 Series",
-      "condition": "used",
-      "price": 13904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2013 Audi A5 ",
       "vin": "WAUDFBFR3DA055430",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3c3d446fa0fd.html",
@@ -488,6 +477,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014 RAM 1500 ",
+      "vin": "1C6RR7MT5ES184042",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7d17f78d495b.html",
+      "year": 2014,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 20408.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Subaru Forester ",
       "vin": "JF2SJCBC4EH420515",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/aa3a18da76e9.html",
@@ -529,6 +529,28 @@
       "model": "Elantra",
       "condition": "used",
       "price": 10904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Hyundai Elantra GT 2015 GLS - sporty style, hatchback versatility, and everyday fun in one sleek package!in British Columbia",
+      "vin": "KMHD35LH0FU250195",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/50c893da8516.html",
+      "year": 2015,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 11904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Hyundai Elantra GT ",
+      "vin": "KMHD35LH0FU250195",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7c2c30d08ae5.html",
+      "year": 2015,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 11904.0,
       "price_currency": "CAD"
     },
     {
@@ -598,6 +620,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2015 Toyota Corolla ",
+      "vin": "2T1BURHE2FC418382",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/934c03881de0.html",
+      "year": 2015,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used",
+      "price": 16908.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2016 Acura MDX ",
       "vin": "5FRYD4H46GB508148",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/da7f0b7a18ed.html",
@@ -617,17 +650,6 @@
       "model": "X5",
       "condition": "used",
       "price": 23404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chrysler 200 ",
-      "vin": "1C3CCCBG4GN193562",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3d0c4f54efb3.html",
-      "year": 2016,
-      "make": "Chrysler",
-      "model": "200",
-      "condition": "used",
-      "price": 10904.0,
       "price_currency": "CAD"
     },
     {
@@ -818,6 +840,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Kia Soul ",
+      "vin": "KNDJX3A55G7842300",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/a88ea76a9bdd.html",
+      "year": 2016,
+      "make": "Kia",
+      "model": "Soul",
+      "condition": "used",
+      "price": 12904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2016 MINI Cooper C ",
       "vin": "WMWZC5C5XGWU03796",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/643c44903a9e.html",
@@ -862,14 +895,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Subaru WRX ",
-      "vin": "JF1VA1L69G9817455",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b472f9e1e651.html",
+      "name": "2016 Toyota Tacoma ",
+      "vin": "5TFRX5GN1GX070612",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f7bee5d305d6.html",
       "year": 2016,
-      "make": "Subaru",
-      "model": "WRX",
+      "make": "Toyota",
+      "model": "Tacoma",
       "condition": "used",
-      "price": 20904.0,
+      "price": 32904.0,
       "price_currency": "CAD"
     },
     {
@@ -881,17 +914,6 @@
       "model": "e-Golf",
       "condition": "used",
       "price": 17709.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Volkswagen Golf ",
-      "vin": "3VW217AU1GM001081",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/315356207a2a.html",
-      "year": 2016,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "condition": "used",
-      "price": 14704.0,
       "price_currency": "CAD"
     },
     {
@@ -1024,17 +1046,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 26904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Santa Fe Sport AWD 4dr 2.4L SE SAVING $3,011 LEATHER! SUNROOF! NO ACCIDENT!in British Columbia",
-      "vin": "5XYZUDLB2HG474425",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5e4f2d702e07.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 15604.0,
       "price_currency": "CAD"
     },
     {
@@ -1181,17 +1192,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Toyota Tundra ",
-      "vin": "5TFUY5F14HX660231",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3046c174a191.html",
-      "year": 2017,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used",
-      "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Volkswagen Golf SportWagen ",
       "vin": "3VW017AU9HM520095",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0bfc6f27bce4.html",
@@ -1266,6 +1266,17 @@
       "model": "Explorer",
       "condition": "used",
       "price": 22304.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Ford F-150 ",
+      "vin": "1FTEW1EGXJKF32586",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/54d3df4c1039.html",
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 31907.0,
       "price_currency": "CAD"
     },
     {
@@ -1368,17 +1379,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Hyundai Santa Fe Sport 2.4L Premium FWD ONE OWNER! LOW KMS!in British Columbia",
-      "vin": "5XYZU3LB7JG546123",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/a0a4cd0d2bf2.html",
-      "year": 2018,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 16908.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Hyundai Santa Fe Sport ",
       "vin": "5NMZUDLB0JH090736",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ebb71d9ea6e2.html",
@@ -1467,6 +1467,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Hyundai Tucson 2.0L SE AWD PANORAMIC SUNROOF! LEATHER INTERIOR! HEATED SEATS & STEERING WHEEL!in British Columbia",
+      "vin": "KM8J3CA44JU740574",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/43bd4199eef8.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 16904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Hyundai Tucson 2018 1.6T SE AWD - turbocharged fun, sleek style, and all-season confidence!in British Columbia",
       "vin": "KM8J3CA27JU828596",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e74ff398a558.html",
@@ -1522,6 +1533,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Kia Sportage ",
+      "vin": "KNDPNCAC0J7481953",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/81ff0c5d0216.html",
+      "year": 2018,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 18408.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Mitsubishi Eclipse Cross ",
       "vin": "JA4AT4AA5JZ607383",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b3975bd36142.html",
@@ -1530,17 +1552,6 @@
       "model": "Eclipse Cross",
       "condition": "used",
       "price": 14894.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mitsubishi Outlander PHEV ",
-      "vin": "JA4J24A58JZ617802",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ef47b6ad489e.html",
-      "year": 2018,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 20904.0,
       "price_currency": "CAD"
     },
     {
@@ -1654,14 +1665,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Volkswagen Atlas ",
-      "vin": "1V2NR2CAXJC562806",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/d0c9d4fda42d.html",
+      "name": "2018 Volkswagen Passat ",
+      "vin": "1VWJM7A38JC032783",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7714c6bf6ca9.html",
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Passat",
       "condition": "used",
-      "price": 24097.0,
+      "price": 20904.0,
       "price_currency": "CAD"
     },
     {
@@ -1797,6 +1808,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Hyundai IONIQ Electric ",
+      "vin": "KMHC85LH5KU038044",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/134db049434e.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "IONIQ Electric",
+      "condition": "used",
+      "price": 20904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Hyundai Kona ",
+      "vin": "KM8K2CAA9KU362976",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7838bd744a0b.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 22908.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Hyundai Santa Fe 2.4L Essential AWD w/Safety Pkg/Dk Chrome Accent BACKUP CAMERA! BLUETOOTH!in British Columbia",
       "vin": "5NMS2CAD3KH064008",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3955424a1fcd.html",
@@ -1847,17 +1880,6 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used",
-      "price": 18904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Hyundai Veloster ",
-      "vin": "KMHTH6AB8KU007942",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2b00364726dd.html",
-      "year": 2019,
-      "make": "Hyundai",
-      "model": "Veloster",
       "condition": "used",
       "price": 18904.0,
       "price_currency": "CAD"
@@ -1926,17 +1948,6 @@
       "model": "Sorento",
       "condition": "used",
       "price": 15908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Kia Soul ",
-      "vin": "KNDJP3A58K7644268",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ce601a17900b.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "used",
-      "price": 17904.0,
       "price_currency": "CAD"
     },
     {
@@ -2069,6 +2080,17 @@
       "model": "Highlander",
       "condition": "used",
       "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Toyota Sienna ",
+      "vin": "5TDKZ3DC5KS994567",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9781f59eed8a.html",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "used",
+      "price": 29907.0,
       "price_currency": "CAD"
     },
     {
@@ -2347,6 +2369,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Mitsubishi Outlander ",
+      "vin": "JA4AZ2A35LZ611067",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3225b961a5c8.html",
+      "year": 2020,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "condition": "used",
+      "price": 21727.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Mitsubishi RVR ",
       "vin": "JA4AJ4AW8LU605337",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9000ecc321b5.html",
@@ -2512,6 +2545,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Chrysler 300 ",
+      "vin": "2C3CCAGG2MH602899",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0c934e966ade.html",
+      "year": 2021,
+      "make": "Chrysler",
+      "model": "300",
+      "condition": "used",
+      "price": 30404.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Dodge Challenger ",
       "vin": "2C3CDZBT4MH572563",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/4c10b09eca4e.html",
@@ -2634,13 +2678,13 @@
     },
     {
       "name": "2021 Hyundai Santa Fe ",
-      "vin": "5NMS3DAJ3MH308154",
+      "vin": "5NMS3DAJXMH336159",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/788aeae437ae.html",
       "year": 2021,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 21906.0,
+      "price": 26404.0,
       "price_currency": "CAD"
     },
     {
@@ -2651,7 +2695,7 @@
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "used",
-      "price": 19904.0,
+      "price": 18904.0,
       "price_currency": "CAD"
     },
     {
@@ -2662,7 +2706,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 19904.0,
+      "price": 19404.0,
       "price_currency": "CAD"
     },
     {
@@ -2684,7 +2728,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 29904.0,
+      "price": 29404.0,
       "price_currency": "CAD"
     },
     {
@@ -2706,7 +2750,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 16904.0,
+      "price": 15904.0,
       "price_currency": "CAD"
     },
     {
@@ -2728,18 +2772,18 @@
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 25408.0,
+      "price": 24898.0,
       "price_currency": "CAD"
     },
     {
       "name": "2021 Kia Sportage ",
-      "vin": "KNDPNCAC4M7929096",
+      "vin": "KNDPNCAC5M7922173",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/030a6a113d74.html",
       "year": 2021,
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 23904.0,
+      "price": 23905.0,
       "price_currency": "CAD"
     },
     {
@@ -2755,13 +2799,13 @@
     },
     {
       "name": "2021 Mazda CX-5 ",
-      "vin": "JM3KFBDMXM0464944",
+      "vin": "JM3KFBCM9M1123367",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/46f50b872bb5.html",
       "year": 2021,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 26904.0,
+      "price": 27904.0,
       "price_currency": "CAD"
     },
     {
@@ -2794,7 +2838,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 20409.0,
+      "price": 19797.0,
       "price_currency": "CAD"
     },
     {
@@ -2809,25 +2853,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Subaru Ascent ",
-      "vin": "4S4WMAPD8M3428735",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/754b00ee5998.html",
-      "year": 2021,
-      "make": "Subaru",
-      "model": "Ascent",
-      "condition": "used",
-      "price": 31904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Subaru Crosstrek ",
-      "vin": "JF2GTABC1M8202051",
+      "vin": "JF2GTAPC6M8652304",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/43eb9203df58.html",
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 24908.0,
+      "price": 29827.0,
       "price_currency": "CAD"
     },
     {
@@ -2838,18 +2871,18 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 33727.0,
+      "price": 33527.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Tesla Model Y ",
-      "vin": "5YJYGDEE8MF229916",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/22b2d4f7ebb4.html",
+      "name": "2021 Tesla Model 3 ",
+      "vin": "5YJ3E1EA4MF030759",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2eda247f6695.html",
       "year": 2021,
       "make": "Tesla",
-      "model": "Model Y",
+      "model": "Model 3",
       "condition": "used",
-      "price": 36904.0,
+      "price": 34813.0,
       "price_currency": "CAD"
     },
     {
@@ -2860,7 +2893,7 @@
       "make": "Toyota",
       "model": "Camry",
       "condition": "used",
-      "price": 30904.0,
+      "price": 29904.0,
       "price_currency": "CAD"
     },
     {
@@ -3128,17 +3161,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Jeep Compass ",
-      "vin": "3C4NJDBB5NT150737",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5cf45d372e87.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 20904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Jeep Gladiator ",
       "vin": "1C6JJTEGXNL100659",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ecb6c03acade.html",
@@ -3183,6 +3205,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Kia Sportage ",
+      "vin": "KNDPNCAC8N7986936",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/376d759a5999.html",
+      "year": 2022,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 23908.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Lincoln Corsair ",
       "vin": "5LMCJ2DH7NUL11570",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/4c8e47a8709c.html",
@@ -3213,6 +3246,17 @@
       "model": "Outlander",
       "condition": "used",
       "price": 29904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Kicks ",
+      "vin": "3N1CP5BV6NL504550",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ca193aaa77aa.html",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 17204.0,
       "price_currency": "CAD"
     },
     {
@@ -3315,17 +3359,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Silverado 1500 ",
-      "vin": "2GCUDEED3P1104785",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/20004a43b0ae.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 50904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Chevrolet Traverse ",
       "vin": "1GNEVFKWXPJ305755",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/956ca795f8af.html",
@@ -3403,17 +3436,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Genesis GV60 ",
-      "vin": "KMUKEDTB7PU004352",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/a15a592cb0fc.html",
-      "year": 2023,
-      "make": "Genesis",
-      "model": "GV60",
-      "condition": "used",
-      "price": 55709.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Genesis GV70 ",
       "vin": "KMUMCDTCXPU143138",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/1800c8fdbf94.html",
@@ -3466,6 +3488,17 @@
       "model": "Santa Fe",
       "condition": "used",
       "price": 27904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Santa Fe Hybrid ",
+      "vin": "KM8S5DA11PU094803",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/23db79bc705d.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "price": 34908.0,
       "price_currency": "CAD"
     },
     {
@@ -3554,6 +3587,17 @@
       "model": "Forte",
       "condition": "used",
       "price": 19904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Kia Seltos ",
+      "vin": "KNDEU2AA7P7426265",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/80ff21e26a20.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 24813.0,
       "price_currency": "CAD"
     },
     {
@@ -4195,17 +4239,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota Tacoma ",
-      "vin": "3TYLB5JNXRT029969",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/d577769c7218.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 54904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Volkswagen Jetta ",
       "vin": "3VWEM7BU1RM100232",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2655be9a22f7.html",
@@ -4214,6 +4247,17 @@
       "model": "Jetta",
       "condition": "used",
       "price": 26904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Volkswagen Taos ",
+      "vin": "3VVEX7B27RM062564",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6cdf733a81f8.html",
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "used",
+      "price": 24904.0,
       "price_currency": "CAD"
     },
     {
@@ -4492,6 +4536,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Jeep Compass ",
+      "vin": "3C4NJDBN2ST625850",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/1a2eeaa11cbf.html",
+      "year": 2025,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Jeep Wrangler 4 Door ",
       "vin": "1C4PJXEN4SW565800",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b10c537322d5.html",
@@ -4577,6 +4632,17 @@
       "model": "CX-70 MHEV",
       "condition": "used",
       "price": 36904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-90 PHEV ",
+      "vin": "JM3KKDHA2S1215505",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/45fb902fd3e3.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-90 PHEV",
+      "condition": "used",
+      "price": 47904.0,
       "price_currency": "CAD"
     },
     {
@@ -4742,17 +4808,6 @@
       "model": "A3",
       "condition": "used",
       "price": 37904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Audi SQ5 ",
-      "vin": "WA1C5AGU1T2011296",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f9d152ff2f72.html",
-      "year": 2026,
-      "make": "Audi",
-      "model": "SQ5",
-      "condition": "used",
-      "price": 85404.0,
       "price_currency": "CAD"
     },
     {
@@ -5028,6 +5083,17 @@
       "model": "1500",
       "condition": "used",
       "price": 62904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Volkswagen Tiguan ",
+      "vin": "3VVGR7RM4TM056433",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8687b8277fa6.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 43904.0,
       "price_currency": "CAD"
     }
   ]

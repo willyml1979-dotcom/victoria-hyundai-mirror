@@ -1,6 +1,6 @@
 {
   "dealership": "Victoria Hyundai",
-  "generated_at": "2026-10-26T00:38:14",
+  "generated_at": "2026-10-26T01:31:48",
   "vehicle_count": 472,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2904,7 +2904,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 31904.0,
+      "price": 30904.0,
       "price_currency": "CAD"
     },
     {
@@ -2926,7 +2926,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 20904.0,
+      "price": 20908.0,
       "price_currency": "CAD"
     },
     {
@@ -2937,7 +2937,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 21904.0,
+      "price": 20906.0,
       "price_currency": "CAD"
     },
     {
@@ -2959,7 +2959,7 @@
       "make": "Chevrolet",
       "model": "Malibu",
       "condition": "used",
-      "price": 22404.0,
+      "price": 19904.0,
       "price_currency": "CAD"
     },
     {
@@ -2970,7 +2970,7 @@
       "make": "Chevrolet",
       "model": "Spark",
       "condition": "used",
-      "price": 17904.0,
+      "price": 19904.0,
       "price_currency": "CAD"
     },
     {
@@ -2981,7 +2981,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 22904.0,
+      "price": 22804.0,
       "price_currency": "CAD"
     },
     {
@@ -2992,7 +2992,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 31904.0,
+      "price": 31894.0,
       "price_currency": "CAD"
     },
     {
@@ -3003,7 +3003,7 @@
       "make": "Dodge",
       "model": "Challenger",
       "condition": "used",
-      "price": 69904.0,
+      "price": 68904.0,
       "price_currency": "CAD"
     },
     {
@@ -3014,7 +3014,7 @@
       "make": "Ford",
       "model": "Edge",
       "condition": "used",
-      "price": 25404.0,
+      "price": 24904.0,
       "price_currency": "CAD"
     },
     {
@@ -3025,7 +3025,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 23904.0,
+      "price": 23708.0,
       "price_currency": "CAD"
     },
     {
@@ -3080,7 +3080,7 @@
       "make": "Honda",
       "model": "Accord Sedan",
       "condition": "used",
-      "price": 35904.0,
+      "price": 33504.0,
       "price_currency": "CAD"
     },
     {
@@ -3091,7 +3091,7 @@
       "make": "Honda",
       "model": "Ridgeline",
       "condition": "used",
-      "price": 43904.0,
+      "price": 42904.0,
       "price_currency": "CAD"
     },
     {

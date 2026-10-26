@@ -1,7 +1,7 @@
 {
   "dealership": "Victoria Hyundai",
-  "generated_at": "2026-10-26T08:59:51",
-  "vehicle_count": 472,
+  "generated_at": "2026-10-26T10:00:11",
+  "vehicle_count": 471,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2457,17 +2457,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Forester ",
-      "vin": "JF2SKEJC4LH476770",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/14c5de29c398.html",
-      "year": 2020,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 25903.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Tesla Model 3 ",
       "vin": "5YJ3E1EA3LF738807",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f9a80049783f.html",
@@ -3096,24 +3085,24 @@
     },
     {
       "name": "2022 Hyundai Elantra ",
-      "vin": "KMHLM4AG8NU345941",
+      "vin": "KMHLM4AG1NU276834",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/df31b2ce90ba.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 17904.0,
+      "price": 20404.0,
       "price_currency": "CAD"
     },
     {
       "name": "2022 Hyundai Kona ",
-      "vin": "KM8K6CAB7NU884409",
+      "vin": "KM8K22AB0NU783704",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/c786c21d4ca9.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 25904.0,
+      "price": 20904.0,
       "price_currency": "CAD"
     },
     {
@@ -3129,13 +3118,13 @@
     },
     {
       "name": "2022 Hyundai Palisade ",
-      "vin": "KM8R5DHE3NU397523",
+      "vin": "KM8R2DHE1NU432956",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/607559fc7f29.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 30904.0,
+      "price": 20727.0,
       "price_currency": "CAD"
     },
     {
@@ -3146,18 +3135,18 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 25904.0,
+      "price": 24904.0,
       "price_currency": "CAD"
     },
     {
       "name": "2022 Hyundai Tucson ",
-      "vin": "KM8JB3AE4NU048235",
+      "vin": "KM8JBCAE9NU035268",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/58dd19cee4e0.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 23797.0,
+      "price": 25903.0,
       "price_currency": "CAD"
     },
     {
@@ -3168,7 +3157,7 @@
       "make": "Jeep",
       "model": "Gladiator",
       "condition": "used",
-      "price": 49904.0,
+      "price": 48904.0,
       "price_currency": "CAD"
     },
     {
@@ -3184,13 +3173,13 @@
     },
     {
       "name": "2022 Kia Sorento ",
-      "vin": "5XYRHDLFXNG084269",
+      "vin": "5XYRHDLFXNG147077",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0698311b678e.html",
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 31797.0,
+      "price": 28406.0,
       "price_currency": "CAD"
     },
     {
@@ -3201,7 +3190,7 @@
       "make": "Kia",
       "model": "Soul",
       "condition": "used",
-      "price": 18904.0,
+      "price": 18704.0,
       "price_currency": "CAD"
     },
     {
@@ -3245,7 +3234,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 29904.0,
+      "price": 28904.0,
       "price_currency": "CAD"
     },
     {
@@ -3267,7 +3256,7 @@
       "make": "Nissan",
       "model": "LEAF",
       "condition": "used",
-      "price": 25404.0,
+      "price": 23797.0,
       "price_currency": "CAD"
     },
     {
@@ -3283,13 +3272,13 @@
     },
     {
       "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFLM2NN434874",
+      "vin": "1C6SRFVT6NN205036",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/61bd79456ef4.html",
       "year": 2022,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 49904.0,
+      "price": 46904.0,
       "price_currency": "CAD"
     },
     {
@@ -3305,13 +3294,13 @@
     },
     {
       "name": "2022 Toyota RAV4 ",
-      "vin": "2T3RWRFV1NW138761",
+      "vin": "2T3B1RFV6NC275342",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/1a8e76fd758e.html",
       "year": 2022,
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 43727.0,
+      "price": 33727.0,
       "price_currency": "CAD"
     },
     {

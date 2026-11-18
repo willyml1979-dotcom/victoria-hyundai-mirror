@@ -1,6 +1,6 @@
 {
   "dealership": "Victoria Hyundai",
-  "generated_at": "2026-11-18T01:56:02",
+  "generated_at": "2026-11-18T03:18:22",
   "vehicle_count": 502,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -758,6 +758,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Wrangler 4 Door 2023 for salein British Columbia",
+      "vin": "1C4HJXEN3PW626615",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/276186eb5530.html",
+      "condition": "used",
+      "price": 39904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Forte 2023 for salein British Columbia",
+      "vin": "3KPF34AD7PE557693",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/086643266d5e.html",
+      "condition": "used",
+      "price": 20404.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Kia Niro EV 2023 for salein British Columbia",
       "vin": "KNDCP3L16P5066967",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/043073339bab.html",
@@ -774,11 +790,91 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Sorento 2023 for salein British Columbia",
+      "vin": "5XYRGDLC1PG199306",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/23e9bc625ccc.html",
+      "condition": "used",
+      "price": 27281.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2023 for salein British Columbia",
+      "vin": "KNDPUCAF0P7049594",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b88b25b0bf4f.html",
+      "condition": "used",
+      "price": 27904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Stinger 2023 for salein British Columbia",
+      "vin": "KNAE55LC9P6138277",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/48a48c8ddef8.html",
+      "condition": "used",
+      "price": 42797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Telluride 2023 for salein British Columbia",
+      "vin": "5XYP5DGC3PG360942",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/54d7bbd5c4f4.html",
+      "condition": "used",
+      "price": 43797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-50 2023 for salein British Columbia",
+      "vin": "7MMVABDY0PN148077",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/16038748d2e6.html",
+      "condition": "used",
+      "price": 35404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander 2023 for salein British Columbia",
+      "vin": "JA4J4VA81PZ605557",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5e9db38acf3c.html",
+      "condition": "used",
+      "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Nissan Rogue 2023 for salein British Columbia",
       "vin": "JN8BT3BB3PW189660",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7d99d5e72abd.html",
       "condition": "used",
       "price": 29904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Sentra 2023 for salein British Columbia",
+      "vin": "3N1AB8CV0PY240740",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b89866d1437b.html",
+      "condition": "used",
+      "price": 18404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2023 for salein British Columbia",
+      "vin": "1C6SRFJT4PN516697",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7c99588258f4.html",
+      "condition": "used",
+      "price": 55267.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 Classic 2023 for salein British Columbia",
+      "vin": "3C6RR7LG7PG680409",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8283af45edef.html",
+      "condition": "used",
+      "price": 37908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2023 for salein British Columbia",
+      "vin": "3C63R3EL8PG532116",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9d80b63dcf7a.html",
+      "condition": "used",
+      "price": 63904.0,
       "price_currency": "CAD"
     },
     {
@@ -790,11 +886,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Taos 2023 for salein British Columbia",
+      "vin": "3VV2X7B23PM321535",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ad98950ea840.html",
+      "condition": "used",
+      "price": 29727.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2023 for salein British Columbia",
+      "vin": "3VV8B7AX7PM040344",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/4c11f1e6b4c6.html",
+      "condition": "used",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Acura RDX 2024 for salein British Columbia",
       "vin": "5J8TC2H85RL800977",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ef7154ba86d0.html",
       "condition": "used",
       "price": 51904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chrysler Pacifica 2024 for salein British Columbia",
+      "vin": "2C4RC3BG5RR193775",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/40a6316d43b2.html",
+      "condition": "used",
+      "price": 45904.0,
       "price_currency": "CAD"
     },
     {
@@ -3397,28 +3517,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Wrangler 4 Door ",
-      "vin": "1C4HJXEN0PW626569",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/276186eb5530.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 34904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Forte ",
-      "vin": "3KPF24AD9PE557049",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/086643266d5e.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 19904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Seltos ",
       "vin": "KNDEU2AA7P7426265",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/80ff21e26a20.html",
@@ -3427,50 +3525,6 @@
       "model": "Seltos",
       "condition": "used",
       "price": 24813.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sorento ",
-      "vin": "5XYRGDLC1PG199306",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/23e9bc625ccc.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage ",
-      "vin": "KNDPUCAF0P7049594",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b88b25b0bf4f.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Stinger ",
-      "vin": "KNAE55LC7P6124247",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/48a48c8ddef8.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Stinger",
-      "condition": "used",
-      "price": 43797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Telluride ",
-      "vin": "5XYP5DGC3PG360942",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/54d7bbd5c4f4.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Telluride",
-      "condition": "used",
-      "price": 47797.0,
       "price_currency": "CAD"
     },
     {
@@ -3485,28 +3539,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mazda CX-50 ",
-      "vin": "7MMVABDM1PN111469",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/16038748d2e6.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-50",
-      "condition": "used",
-      "price": 34904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mitsubishi Outlander ",
-      "vin": "JA4J4VA81PZ605557",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5e9db38acf3c.html",
-      "year": 2023,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 32904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Nissan Qashqai ",
       "vin": "JN1BJ1BWXPW105779",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3e90129500d1.html",
@@ -3515,50 +3547,6 @@
       "model": "Qashqai",
       "condition": "used",
       "price": 24904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Sentra ",
-      "vin": "3N1AB8CV0PY240740",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b89866d1437b.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 20404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 1500 ",
-      "vin": "1C6SRFJT2PN651824",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7c99588258f4.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 49904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 1500 Classic ",
-      "vin": "3C6RR7LT4PG678551",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8283af45edef.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 39797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 3500 ",
-      "vin": "3C63R3EL8PG532116",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9d80b63dcf7a.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 65904.0,
       "price_currency": "CAD"
     },
     {
@@ -3573,28 +3561,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen Taos ",
-      "vin": "3VV2X7B23PM321535",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ad98950ea840.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 30727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen Tiguan ",
-      "vin": "3VV8B7AX7PM040344",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/4c11f1e6b4c6.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 29904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Chrysler Grand Caravan ",
       "vin": "2C4RC1ZG4RR155612",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/cafbb0b2d48b.html",
@@ -3603,17 +3569,6 @@
       "model": "Grand Caravan",
       "condition": "used",
       "price": 33904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chrysler Pacifica ",
-      "vin": "2C4RC3BG5RR193775",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/40a6316d43b2.html",
-      "year": 2024,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "used",
-      "price": 46904.0,
       "price_currency": "CAD"
     },
     {

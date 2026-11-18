@@ -1,6 +1,6 @@
 {
   "dealership": "Victoria Hyundai",
-  "generated_at": "2026-11-18T03:18:22",
+  "generated_at": "2026-11-18T10:55:41",
   "vehicle_count": 502,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -4837,17 +4837,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Elantra Hybrid Luxuryin British Columbia",
-      "vin": "KMHLN4DJ1TU227554",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/7f8f332ee07c.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra Hybrid",
-      "condition": "new",
-      "price": 34199.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Kona Preferredin British Columbia",
       "vin": "KM8HBCAB7TU440546",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/d0f1ef5d9970.html",
@@ -5076,6 +5065,17 @@
       "model": "Venue",
       "condition": "new",
       "price": 26299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Venue Preferredin British Columbia",
+      "vin": "KMHRC8A37VU506829",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/new/3da5bfdd5013.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 28999.0,
       "price_currency": "CAD"
     },
     {

@@ -1,7 +1,7 @@
 {
   "dealership": "Victoria Hyundai",
-  "generated_at": "2026-11-18T10:55:41",
-  "vehicle_count": 502,
+  "generated_at": "2026-11-18T11:56:09",
+  "vehicle_count": 507,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -142,14 +142,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Chrysler Pacifica 2018 for salein British Columbia",
-      "vin": "2C4RC1EG1JR173883",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/52717b7b4305.html",
-      "condition": "used",
-      "price": 16904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Honda CR-V 2018 for salein British Columbia",
       "vin": "2HKRW2H97JH103442",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/25c6140ab4c7.html",
@@ -251,6 +243,14 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e2cdaaa46b2a.html",
       "condition": "used",
       "price": 20904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX50 2019 for salein British Columbia",
+      "vin": "3PCAJ5M39KF127577",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9dae3099a64a.html",
+      "condition": "used",
+      "price": 17904.0,
       "price_currency": "CAD"
     },
     {
@@ -446,6 +446,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Sonata 2021 for salein British Columbia",
+      "vin": "5NPEG4JA0MH072342",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e82465621eac.html",
+      "condition": "used",
+      "price": 18904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Venue 2021 for salein British Columbia",
       "vin": "KMHRC8A35MU090150",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9942c117a830.html",
@@ -502,6 +510,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 Classic 2021 for salein British Columbia",
+      "vin": "3C6RR7KTXMG548478",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7fddcdf68145.html",
+      "condition": "used",
+      "price": 28904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Tesla Model Y 2021 for salein British Columbia",
       "vin": "5YJYGDEE8MF229916",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/22b2d4f7ebb4.html",
@@ -534,6 +550,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda CR-V 2022 for salein British Columbia",
+      "vin": "2HKRW2H99NH219120",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/48fb4427054e.html",
+      "condition": "used",
+      "price": 36904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda Odyssey 2022 for salein British Columbia",
       "vin": "5FNRL6H65NB503221",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f6f9e3150215.html",
@@ -547,6 +571,14 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/29e2b386bfee.html",
       "condition": "used",
       "price": 31904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2022 for salein British Columbia",
+      "vin": "KMHRC8A3XNU189953",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/d6d5f21bc4cb.html",
+      "condition": "used",
+      "price": 22904.0,
       "price_currency": "CAD"
     },
     {
@@ -571,6 +603,14 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9342ca4a519a.html",
       "condition": "used",
       "price": 35908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2022 for salein British Columbia",
+      "vin": "1C4HJXEG8NW250766",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/070d283e1937.html",
+      "condition": "used",
+      "price": 37904.0,
       "price_currency": "CAD"
     },
     {
@@ -627,14 +667,6 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/bfdef61589d3.html",
       "condition": "used",
       "price": 51404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford Escape Hybrid 2023 for salein British Columbia",
-      "vin": "1FMCU0E19PUA55841",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/2ffb580b8c73.html",
-      "condition": "used",
-      "price": 29904.0,
       "price_currency": "CAD"
     },
     {
@@ -918,6 +950,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Durango 2024 for salein British Columbia",
+      "vin": "1C4RDJDG1RC241649",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9fe26b43eccb.html",
+      "condition": "used",
+      "price": 42797.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2024 for salein British Columbia",
+      "vin": "1FMDE7BH7RLB38995",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/613cf15a27e3.html",
+      "condition": "used",
+      "price": 45904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2024 for salein British Columbia",
+      "vin": "1FT8W3BM0REC24162",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6d5d9c6a7a46.html",
+      "condition": "used",
+      "price": 97904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2024 for salein British Columbia",
+      "vin": "3GKALTEG5RL339795",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/273afc4c25e3.html",
+      "condition": "used",
+      "price": 29908.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Genesis GV70 2024 for salein British Columbia",
+      "vin": "KMUMAET1XRU007363",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/446dff3ac773.html",
+      "condition": "used",
+      "price": 59404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2024 for salein British Columbia",
+      "vin": "KMHLM4DG5RU727930",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ba510b6938d4.html",
+      "condition": "used",
+      "price": 22904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Elantra Hybrid 2024 for salein British Columbia",
       "vin": "KMHLN4DJ7RU097353",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/3aa066c30455.html",
@@ -926,11 +1006,83 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai IONIQ 5 2024 for salein British Columbia",
+      "vin": "KM8KN4DE3RU237915",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/c8c8debcbe61.html",
+      "condition": "used",
+      "price": 39627.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2024 for salein British Columbia",
+      "vin": "KM8HACAB9RU045831",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/52ed564a2fd2.html",
+      "condition": "used",
+      "price": 24904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona Electric 2024 for salein British Columbia",
+      "vin": "KM8HE3A68RU015016",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e1ea6902ff02.html",
+      "condition": "used",
+      "price": 33408.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Palisade 2024 for salein British Columbia",
+      "vin": "KM8R3DGE2RU780883",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5a63efb3ce01.html",
+      "condition": "used",
+      "price": 44904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2024 for salein British Columbia",
+      "vin": "5NMP4DGL0RH014181",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6ee3702fd6e0.html",
+      "condition": "used",
+      "price": 38904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2024 for salein British Columbia",
+      "vin": "KM8JCCDE0RU350572",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b74827628fa5.html",
+      "condition": "used",
+      "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Tucson Hybrid 2024 for salein British Columbia",
       "vin": "KM8JCCD12RU181037",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e6bad7108d31.html",
       "condition": "used",
       "price": 30404.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2024 for salein British Columbia",
+      "vin": "KMHRB8A35RU321994",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f48001a7ca5a.html",
+      "condition": "used",
+      "price": 22904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2024 for salein British Columbia",
+      "vin": "1C4RJHBG1RC205321",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0a8f82868094.html",
+      "condition": "used",
+      "price": 36878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4xe 2024 for salein British Columbia",
+      "vin": "1C4RJXN64RW220097",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6b660d054acc.html",
+      "condition": "used",
+      "price": 42904.0,
       "price_currency": "CAD"
     },
     {
@@ -955,6 +1107,14 @@
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/87bb0bef7387.html",
       "condition": "used",
       "price": 38904.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2024 for salein British Columbia",
+      "vin": "1C6SRFVT3RN114408",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/809a65cd5b5a.html",
+      "condition": "used",
+      "price": 55904.0,
       "price_currency": "CAD"
     },
     {
@@ -1094,6 +1254,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Jetta 2025 for salein British Columbia",
+      "vin": "3VWCX7BU4SM094074",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/867402850c3a.html",
+      "condition": "used",
+      "price": 25904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chevrolet Blazer 2026 for salein British Columbia",
       "vin": "3GNKBKRS0TS123479",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b2dcf56ebb77.html",
@@ -1134,19 +1302,19 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic Sedan 2026 for salein British Columbia",
+      "vin": "2HGFE2F24TH110387",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/c7014a3a30ad.html",
+      "condition": "used",
+      "price": 30904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda CX-90 MHEV 2026 for salein British Columbia",
       "vin": "JM3KKCHD3T1378413",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/d9c4c2cb9da6.html",
       "condition": "used",
       "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota Corolla 2026 for salein British Columbia",
-      "vin": "JTDBCMFE2T3143903",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/75996c292f5c.html",
-      "condition": "used",
-      "price": 36904.0,
       "price_currency": "CAD"
     },
     {
@@ -2747,17 +2915,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Silverado 1500 ",
-      "vin": "1GCUYBEF6MZ152109",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/20cb9904a9a0.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 39404.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Chevrolet Trax LT FWD BACKUP CAMERA! LEATHER SEATS! BLUETOOTH!in British Columbia",
       "vin": "KL7CJLSB7MB325892",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0a2aba84bc85.html",
@@ -3341,6 +3498,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Hyundai Venue Ultimatein British Columbia",
+      "vin": "KMHRC8A3XNU189953",
+      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8fe68e32348f.html",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "used",
+      "price": 22904.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Jeep Gladiator ",
       "vin": "1C6JJTEGXNL100659",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ecb6c03acade.html",
@@ -3572,28 +3740,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Durango ",
-      "vin": "1C4RDJDG8RC167176",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/9fe26b43eccb.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 39904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
-      "vin": "1FMDE7BH7RLB38995",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/613cf15a27e3.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 47904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford Bronco Sport ",
       "vin": "3FMCR9D94RRF15494",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/8a3c50005973.html",
@@ -3627,116 +3773,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BM0REC24162",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6d5d9c6a7a46.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 100904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Terrain ",
-      "vin": "3GKALTEG6RL342768",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/273afc4c25e3.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 25704.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Genesis GV70 ",
-      "vin": "KMUMAET14RU007553",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/446dff3ac773.html",
-      "year": 2024,
-      "make": "Genesis",
-      "model": "GV70",
-      "condition": "used",
-      "price": 50709.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Elantra ",
-      "vin": "KMHLM4DG6RU847784",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ba510b6938d4.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 23908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai IONIQ 5 ",
-      "vin": "KM8KN4DE3RU237915",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/c8c8debcbe61.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "used",
-      "price": 39727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona ",
-      "vin": "KM8HB3AB0RU150206",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/52ed564a2fd2.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Kona Electric ",
-      "vin": "KM8HE3A68RU015016",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/e1ea6902ff02.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "used",
-      "price": 33904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Palisade ",
-      "vin": "KM8R3DGE2RU780883",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/5a63efb3ce01.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Palisade",
-      "condition": "used",
-      "price": 47908.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Fe ",
-      "vin": "5NMP4DGL0RH014181",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6ee3702fd6e0.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Tucson ",
-      "vin": "KM8JCCDE9RU329557",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/b74827628fa5.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 28904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Hyundai Venue Essential IVT HEATED SEATS! BACKUP CAMERA! BLUETOOTH!in British Columbia",
       "vin": "KMHRB8A35RU321994",
       "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/ee0faa2801e2.html",
@@ -3745,39 +3781,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 22904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Venue ",
-      "vin": "KMHRC8A39RU301406",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/f48001a7ca5a.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 19404.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHBG1RC205321",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/0a8f82868094.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 40904.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler 4xe ",
-      "vin": "1C4RJXN64RW220097",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/6b660d054acc.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 47404.0,
       "price_currency": "CAD"
     },
     {
@@ -4262,17 +4265,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 21797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Venue Essential IVT BACKUP CAMERA! HEATED SEATS! BLUETOOTH!in British Columbia",
-      "vin": "KMHRB8A37SU399196",
-      "url": "https://willyml1979-dotcom.github.io/victoria-hyundai-mirror/used/7bdbfeb56912.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 23904.0,
       "price_currency": "CAD"
     },
     {
